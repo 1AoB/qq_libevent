@@ -1,6 +1,7 @@
 # qq_libevent
 
 # 我之前已经写过一个QQ项目,大家可以从代码仓库中查看.
+https://github.com/1AoB/QQ
 # 这个项目与之前那个类似,之前的QQ项目使用的是纯Qt,而新项目的服务端使用的是libevent与jsoncpp去完成
 
 # 新项目的项目名:qq_libevent
