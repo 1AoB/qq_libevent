@@ -1,4 +1,5 @@
-每个线程创建顺序:statr->worker-run
+每个线程创建顺序:
+statr->worker-run
 
 Tcpserver::Tcpserver(int threadNum)
 Thread::Thread()
